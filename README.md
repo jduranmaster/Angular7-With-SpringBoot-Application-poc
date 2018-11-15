@@ -5,5 +5,5 @@ The application has CRUD operation example for user entity. Here, you can create
 This project uses following versions:
 
 1. Spring Boot v2.0.1
-2. Angular v5.0.0
+2. Angular v7.0.0
 3. Maven
